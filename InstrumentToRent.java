@@ -3,7 +3,7 @@
  * This class is the subclass of this coursework.
  * This class is the sub class of Instrument.
  * 
- * @author (Yubraj Khadka)
+ * @author (Ripesh Khadka)
  */
 //Instrument class inherited by InstrumentToRent
 public class InstrumentToRent extends Instrument{
