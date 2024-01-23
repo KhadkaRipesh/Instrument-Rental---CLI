@@ -3,7 +3,7 @@
  * This is the super class.
  * This class is the super class of two subclasses InstrumentToRent and InstrumentToSell.
  * 
- * @author (Yubraj Khadka)
+ * @author (Ripesh Khadka)
  */
 public class Instrument{
     //instance 
