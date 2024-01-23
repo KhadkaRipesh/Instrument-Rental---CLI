@@ -2,7 +2,7 @@
  * This coursework is based on Java.
  * This class is the subclass of this coursework.
  * 
- * @author (Yubraj Khadka)
+ * @author (Ripesh Khadka)
  */
 //Instrument class inherited by InstrumentToSell
 public class InstrumentToSell extends Instrument{
